@@ -7,6 +7,7 @@ conda create --name sjsu_demo
 conda activate sjsu_demo
 conda install -c anaconda pandas
 conda install -c conda-forge matplotlib
+conda install -c anaconda scipy
 conda install -c anaconda jupyter
 ```
 To make your environment accessible in a Jupyter notebook, use the following command
