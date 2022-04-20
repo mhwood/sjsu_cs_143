@@ -1,7 +1,15 @@
 # CS 143 - Numerical Analysis and Scientific Computing
 
 ## Purpose
-This repository is created to share materials for a teaching demonstration.
+This repository is created to share materials for a teaching demonstration at San Jose State University. Course materials are used as examples only, and do not constitute actual course materials used at SJSU.
+
+## Using this repository
+
+To access the workbooks used in this demonstration, use the Jupyter Binder by clicking on the following badge:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mhwood/sjsu_cs_143/main)
+
+
 
 ## Repository Contents
 This repository contain materials for the CS 143 course (3 units) in the Computer Science department at San Jose State University. This course is also cross-listed with Math 143C/METR 143C. 
