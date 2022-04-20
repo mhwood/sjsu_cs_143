@@ -9,3 +9,7 @@ conda install -c anaconda pandas
 conda install -c conda-forge matplotlib
 conda install -c anaconda jupyter
 ```
+To make your environment accessible in a Jupyter notebook, use the following command
+```
+python -m ipykernel install --user --name=sjsu_demo
+```
